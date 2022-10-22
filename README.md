@@ -3,6 +3,7 @@ Products Card Using React JS
 
 ![exmpl3](https://user-images.githubusercontent.com/99626693/197319237-7af1e5e0-d19d-463d-baf5-dc124f6c58f0.JPG)
 
+React Slick Carousel : https://react-slick.neostack.com/
 
 # Getting Started with Create React App
 
