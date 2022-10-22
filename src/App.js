@@ -34,14 +34,14 @@ function App() {
                   <div className='share btn'>
                     <i class="bi bi-share-fill"></i>
                   </div>
-                   <div className="photo">
-                    <Slider {...settings}>
-                      <Card.Img className='images' variant="top" src={photo} />
-                      <Card.Img className='images' variant="top" src={photo1} />
-                      <Card.Img className='images' variant="top" src={photo2} />
-                      <Card.Img className='images' variant="top" src={photo3} />
-                    </Slider>
-                  </div>
+                     <div className="photo">
+                      <Slider {...settings}>
+                        <Card.Img className='images' variant="top" src={photo} />
+                        <Card.Img className='images' variant="top" src={photo1} />
+                        <Card.Img className='images' variant="top" src={photo2} />
+                        <Card.Img className='images' variant="top" src={photo3} />
+                      </Slider>
+                    </div>
                     <Card.Body className='card-body'>
                         <Card.Title><a href='' className='card-title'>New Piero Ergo - Black Gum</a> </Card.Title>
                         <Card.Text className='card-text'>
