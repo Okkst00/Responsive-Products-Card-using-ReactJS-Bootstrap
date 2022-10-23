@@ -1,4 +1,7 @@
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+import '../node_modules/aos/dist/aos.css';
+import '../node_modules/aos/dist/aos';
+import AOS from 'aos';
 import Card from 'react-bootstrap/Card';
 import photo from './assets/img/piero3.jpg';
 import photo1 from './assets/img/ergo.jpg';
