@@ -30,7 +30,7 @@ function App() {
 
   return (
 
-      <Container className='main-ports' id="portfolios">
+      <Container className='main-ports'>
         <Row className='justify-content-center'>
             <Col className='col-lg-4 col-md-6 col-10'>
                 <Card className='port-card border-0 shadow mt-5' data-aos="zoom-in">
